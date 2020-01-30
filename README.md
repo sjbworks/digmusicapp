@@ -7,7 +7,7 @@
 - SpotifyAPI のインターフェース  
   <https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/spotify-web-playback-sdk/index.d.ts>
 
-##　書籍
+## 書籍
 
 - 実践 TypeScript ~ BFF と Next.js&Nuxt.js の型定義~ 吉井 健文 (著)  
   <https://www.amazon.co.jp/gp/product/483996937X/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1>
